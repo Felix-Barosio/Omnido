@@ -23,7 +23,9 @@ default: &default
 
 development:
   <<: *default
-  database: rails_react_mytodo_development
+  database:
+    rails_react_mytodo_development
+    # url: <%= ENV['DATABASE_URL'] %>
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
