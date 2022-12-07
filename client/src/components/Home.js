@@ -4,7 +4,7 @@ function Home() {
     return (
         <div>
             <div className='home-container'>
-                <h1>Simple TO-DO App</h1>
+                <h1>OmniDO App</h1>
                 <p>Simple and Effective ToDo App.</p>
             </div>
         </div>
