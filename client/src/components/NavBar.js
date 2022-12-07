@@ -6,7 +6,7 @@ function NavBar() {
         <div className="header">
             <div className="navbar-container">
                 <Link className="navbar-logo" to="/">
-                    Simple TO-DO
+                    OmniDO
                 </Link>
                 <div className="nav-menu">
                     <Link className="nav-links" to="/todo">
