@@ -22,7 +22,7 @@
   font-size: 1.7rem;
   margin-bottom: 1rem;
   font-weight: 200;
-  background-color: #268da3;
+  background-color: #0f6bae;
   font-family: 'Oleo Script', cursive;
 }
 .sort select {
@@ -61,7 +61,7 @@ input {
   column-gap: 1.5rem;
   align-items: center;
   color: #fff;
-  background: #268da3;
+  background: #0f6bae;
   border-radius: 0.3rem;
 }
 .todoList{
@@ -71,7 +71,7 @@ input {
   flex-direction: column;
   align-self: center;
   max-width: 700px;
-  background: #268da3;
+  background: #0f6bae;
   box-shadow: 4px 4px 10px rgba(33, 33, 33, 0.2);
   border-radius: 10px;
 }
@@ -84,7 +84,7 @@ p.content{
   font-weight: 900;
 }
 option{
-  color: #268da3;
+  color: #0f6bae;
 }
 .btn.add{
   background-color: #f1f1f1 !important;
