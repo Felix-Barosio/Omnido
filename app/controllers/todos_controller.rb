@@ -22,6 +22,20 @@ class TodosController < ApplicationController
     render json: @todo, status: :created
   end
 
+  # PATCH /todos/:id
+  def update
+    @todo = find_todo
+    @todo.update!(todo_params)
+    render json: @todo, status: :ok
+  end
+
+  # DELETE /todos/:id
+  def destroy
+    @todo = find_todo
+    @todo.destroy
+    render json: @todo, status: :ok
+  end
+
   private
 
   # finding todos by id
