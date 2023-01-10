@@ -9,7 +9,7 @@ function NavBar() {
                     OmniDO
                 </Link>
                 <div className="nav-menu">
-                    <Link className="nav-links" to="/todo">
+                    <Link className="nav-links" to="/todos">
                         Todos
                     </Link>
                 </div>

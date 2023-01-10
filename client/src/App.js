@@ -10,7 +10,7 @@ function App() {
       <NavBar />
       <Routes>
         <Route exact path="/" element={<Home />}></Route>
-        <Route exact path="/todo" element={<TodoList />}></Route>
+        <Route exact path="/todos" element={<TodoList />}></Route>
       </Routes>
     </div>
   );
