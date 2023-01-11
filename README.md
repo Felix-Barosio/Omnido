@@ -2,6 +2,63 @@
 
 Simple To-Do App that performs CRUD and fetches data from Rails API.
 
+## Table of content
+
+- [Technologies Used](#technologies-used)
+- [Installation](#installation--set-up)
+- [Deployment](#deployment)
+- [Contributions](#contributions)
+- [License and Copyright](#license-and-copyright)
+- [Author Info](#author-info)
+
+## Technologies Used
+
+- Rails APIs
+- React
+- Active Record
+- PostgreSQL
+- Render - Deployment
+
+## Installation & Set up
+
+Clone the repository
+
+```
+https://github.com/Felix-Barosio/Omnido
+```
+
+Install dependecies
+
+```
+bundle install
+```
+
+```
+rails db:create
+```
+
+```
+rails db:seed
+```
+
+```
+npm install --prefix client
+```
+
+Run
+
+```
+rails s
+```
+
+```
+npm start --prefix client
+```
+
+## Deployment
+
+[Live Link](https://omnido.onrender.com/)
+
 ## Contributions
 
 1. Fork this repository.
