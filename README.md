@@ -1,24 +1,29 @@
-# README
+# OmniDo App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple To-Do App that performs CRUD and fetches data from Rails API.
 
-Things you may want to cover:
+## Contributions
 
-* Ruby version
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
 
-* System dependencies
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-* Configuration
+## License and Copyright.
 
-* Database creation
+[MIT license](https://opensource.org/licenses/MIT)
 
-* Database initialization
+Copyright (c) [2022] [Felix Barosio]
 
-* How to run the test suite
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-* Services (job queues, cache servers, search engines, etc.)
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-* Deployment instructions
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-* ...
+## Author Info
+
+- [Felix Barosio](https://github.com/Felix-Barosio)
